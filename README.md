@@ -1,2 +1,2 @@
-# code-quiz
+# Web APIs Homework: Code Quiz
 
